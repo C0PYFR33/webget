@@ -2,7 +2,7 @@
 [![Python 3.5](https://img.shields.io/badge/Python-3.5-yellow.svg)](http://www.python.org/download/) 
 
 
-# WEBGET V1
+# WEBGET V1 (Iran123) | Webkiller V2 (UltraSec)
 
 Tool Information Gathering Write With Python.
 
@@ -46,9 +46,10 @@ Tool Information Gathering Write With Python.
 
 
 ## Operating Systems Tested
-- Kali Linux 2020.1
+- Kali Linux 2020.4
+- termux 2020
 - Windows 10
-- Ubuntu 19.10
+- Ubuntu 20
 
 
 ## Install
@@ -56,7 +57,7 @@ Tool Information Gathering Write With Python.
 git clone https://github.com/C0PYFR33/WEBGET.git
 cd WEBGET
 pip install -r requirements.txt
-python3 WEBGET.py 
+python3/python WEBGET.py 
 ```
 
 ## ScreenShot
